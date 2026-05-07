@@ -1,0 +1,11 @@
+.container {
+  margin: auto;
+  padding: 0 20px;
+}
+
+.question-list li {
+  padding: 15px;
+  border: 1px solid #999;
+  border-radius: 5px;
+  margin: 10px;
+}
